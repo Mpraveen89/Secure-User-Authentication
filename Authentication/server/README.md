@@ -1,4 +1,4 @@
-# 🔐 MERN Authentication System – Server (Backend)
+# 🔐 Complete And Secure User Authentication System – Server (Backend)
 
 This folder contains the **backend implementation** of the Complete MERN Authentication System. The server is built using **Node.js, Express.js, MongoDB**, and implements **secure authentication with OTP verification (Email / Phone), JWT-based authorization, and password recovery**.
 
