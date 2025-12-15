@@ -1,4 +1,4 @@
-# 🔐 MERN Authentication System - Client (Frontend)
+# 🔐 Complete And Secure User Authentication System - Client (Frontend)
 
 A **full-stack MERN Authentication application** implementing secure user authentication with **Email / Phone OTP verification**, **JWT-based login**, and **password recovery**.
 
@@ -44,7 +44,7 @@ This repository contains the **React (Vite) frontend** of the project, designed 
 ## 📁 Project Structure (Frontend)
 
 ```
-Complete_MERN_Authentication-main/
+Authentication/
 │
 ├── client/
 │   ├── public/
@@ -127,8 +127,8 @@ Complete_MERN_Authentication-main/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Complete_MERN_Authentication.git
-cd Complete_MERN_Authentication
+git clone https://github.com/Mpraveen89/Secure-User-Authentication.git
+cd Authentication
 ```
 
 ---
