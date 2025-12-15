@@ -1,4 +1,4 @@
-# 🔐 Complete MERN Authentication System
+# 🔐 Complete And Secure User Authentication System
 
 A **production-ready MERN Authentication System** implementing secure user authentication using **Email / Phone OTP verification**, **JWT-based authorization**, and **password recovery**.
 
@@ -145,8 +145,8 @@ Complete_MERN_Authentication
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Complete_MERN_Authentication.git
-cd Complete_MERN_Authentication
+git clone https://github.com/Mpraveen89/Secure-User-Authentication.git
+cd Authentication
 ```
 
 ### 2️⃣ Run Backend
