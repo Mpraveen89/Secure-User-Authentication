@@ -1,4 +1,4 @@
-# 🔐 Complete And Secure User Authentication System
+# 🔐 Complete And Secure User Authentication System PRODIGY_FS_01
 
 A **production-ready MERN Authentication System** implementing secure user authentication using **Email / Phone OTP verification**, **JWT-based authorization**, and **password recovery**.
 
