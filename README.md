@@ -191,7 +191,7 @@ Each contains detailed setup, environment variables, and code explanations.
 ## 👨‍💻 Author
 
 **M. PRAVEEN**
-Full Stack MERN Developer
+Full Stack Development Inter
 
 * GitHub: [https://github.com/Mpraveen89](https://github.com/Mpraveen89)
 * LinkedIn: [https://www.linkedin.com/in/m-praveen-b4772734a/](https://www.linkedin.com/in/m-praveen-b4772734a/)
